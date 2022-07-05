@@ -1,6 +1,6 @@
 
 {
-"spider":"https://raw.fastgit.org/neacelr/kim/main/TVBox/jar/0704.jar",
+"spider":"https://raw.fastgit.org/neacelr/kim/main/TVBox/jar/laoliu.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 
